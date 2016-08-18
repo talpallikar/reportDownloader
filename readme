@@ -1,0 +1,7 @@
+daily texan application 1/2
+
+This is a python script that saves pdfs from princeton's archive of OTA reports. I have included a requirements file, install all required libraries using pip install -r requirements, then execute from test.py
+
+it is a bit slow because of the way it does I/O, but it should give progress updates in the command line.
+
+i recommend doing all of this in a virtual environment to be safe!
